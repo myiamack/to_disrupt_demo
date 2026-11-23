@@ -1,0 +1,447 @@
+{
+  "Gift": [
+    {
+      "id": "6adb7a8c45c725959eae4dd6",
+      "number": 1,
+      "name": "EXPOSE",
+      "kanji": "照",
+      "meaning": "to illuminate",
+      "short_verb": "I see it.",
+      "tagline": "Addressing the elephant in the room: seeing the cracks others miss or are afraid to name.",
+      "quiz_scenario": "A community app's sign-up quietly fails on older phones, and nobody on the team has noticed yet. Which role steps up first?",
+      "quiz_answer": "QA Analyst",
+      "reading": "terasu (照らす)",
+      "say": "teh-rah-soo"
+    },
+    {
+      "id": "6adb7a8c45c725959eae4dd7",
+      "number": 2,
+      "name": "CHALLENGE",
+      "kanji": "挑",
+      "meaning": "to challenge",
+      "short_verb": "I question it.",
+      "tagline": "Questioning what isn't working, even when it makes the room uncomfortable.",
+      "quiz_scenario": "A team keeps missing deadlines and everyone shrugs: “that's just how it is.” Which role questions the process?",
+      "quiz_answer": "Process Improvement Consultant",
+      "reading": "idomu (挑む)",
+      "say": "ee-doh-moo"
+    },
+    {
+      "id": "6adb7a8c45c725959eae4dd8",
+      "number": 3,
+      "name": "ADVOCATE",
+      "kanji": "声",
+      "meaning": "voice",
+      "short_verb": "I speak for others.",
+      "tagline": "Speaking up for the group when others feel it but won't say it.",
+      "quiz_scenario": "Employees keep raising the same concern privately but never in meetings. Which role makes sure it gets heard and handled fairly?",
+      "quiz_answer": "HR Specialist (Employee Relations)",
+      "reading": "koe (声)",
+      "say": "koh-eh"
+    },
+    {
+      "id": "6adb7a8c45c725959eae4dd9",
+      "number": 4,
+      "name": "EMPOWER",
+      "kanji": "力",
+      "meaning": "power, strength",
+      "short_verb": "I pass the mic.",
+      "tagline": "Helping others find the courage to use their own voice.",
+      "quiz_scenario": "A new hire has strong ideas but never speaks first in meetings. Which role helps her find the courage to use her voice?",
+      "quiz_answer": "Career Coach",
+      "reading": "chikara (力)",
+      "say": "chee-kah-rah"
+    },
+    {
+      "id": "6adb7a8c45c725959eae4dda",
+      "number": 5,
+      "name": "SUPPORT",
+      "kanji": "支",
+      "meaning": "to support",
+      "short_verb": "I stay through the change.",
+      "tagline": "Standing with people through the change so they're not left alone in it.",
+      "quiz_scenario": "A family is navigating a hard transition and needs someone to walk alongside them while connecting them to resources. Which role fits?",
+      "quiz_answer": "Social Worker",
+      "reading": "sasaeru (支える)",
+      "say": "sah-sah-eh-roo"
+    }
+  ],
+  "Job": [
+    {
+      "id": "job-1",
+      "gift_id": "6adb7a8c45c725959eae4dd6",
+      "title": "QA Analyst",
+      "description": "Finds what's broken before others experience it.",
+      "created_date": "2026-10-01T00:00:00Z"
+    },
+    {
+      "id": "job-2",
+      "gift_id": "6adb7a8c45c725959eae4dd6",
+      "title": "Community Researcher",
+      "description": "Uncovers issues affecting communities and brings them into the open.",
+      "created_date": "2026-10-01T00:00:01Z"
+    },
+    {
+      "id": "job-3",
+      "gift_id": "6adb7a8c45c725959eae4dd7",
+      "title": "Process Improvement Consultant",
+      "description": "Challenges how work gets done and helps teams find better ways.",
+      "created_date": "2026-10-01T00:00:02Z"
+    },
+    {
+      "id": "job-4",
+      "gift_id": "6adb7a8c45c725959eae4dd7",
+      "title": "Auditor",
+      "description": "Challenges whether people and systems are held accountable.",
+      "created_date": "2026-10-01T00:00:03Z"
+    },
+    {
+      "id": "job-5",
+      "gift_id": "6adb7a8c45c725959eae4dd8",
+      "title": "HR Specialist (Employee Relations)",
+      "description": "The person employees bring concerns to, so their voice is heard and handled fairly.",
+      "created_date": "2026-10-01T00:00:04Z"
+    },
+    {
+      "id": "job-6",
+      "gift_id": "6adb7a8c45c725959eae4dd8",
+      "title": "Customer Success Manager",
+      "description": "Represents the customer's voice inside a company.",
+      "created_date": "2026-10-01T00:00:05Z"
+    },
+    {
+      "id": "job-7",
+      "gift_id": "6adb7a8c45c725959eae4dd9",
+      "title": "Learning & Development Specialist",
+      "description": "Designs and leads training that helps employees build skills and confidence.",
+      "created_date": "2026-10-01T00:00:06Z"
+    },
+    {
+      "id": "job-8",
+      "gift_id": "6adb7a8c45c725959eae4dd9",
+      "title": "Career Coach",
+      "description": "Helps people find their strengths, speak up for what they want, and go after it.",
+      "created_date": "2026-10-01T00:00:07Z"
+    },
+    {
+      "id": "job-9",
+      "gift_id": "6adb7a8c45c725959eae4dda",
+      "title": "Project Manager",
+      "description": "Keeps the team moving and supported from start to finish.",
+      "created_date": "2026-10-01T00:00:08Z"
+    },
+    {
+      "id": "job-10",
+      "gift_id": "6adb7a8c45c725959eae4dda",
+      "title": "Social Worker",
+      "description": "Walks alongside people through hard situations and connects them to the resources they need.",
+      "created_date": "2026-10-01T00:00:09Z"
+    }
+  ],
+  "Branch": [
+    {
+      "id": "branch-1-1",
+      "gift_id": "6adb7a8c45c725959eae4dd6",
+      "number": 1,
+      "label": "Document it first",
+      "title": "Show your work",
+      "text": "Before you said a word out loud, you wrote down every step — where it broke, who it cost, what it cost them. Evidence turns a complaint into a case someone has to answer."
+    },
+    {
+      "id": "branch-1-2",
+      "gift_id": "6adb7a8c45c725959eae4dd6",
+      "number": 2,
+      "label": "Demo the failure",
+      "title": "Let them watch it break",
+      "text": "You walked someone through the broken flow and let it fail in front of them. Nothing argues like the thing itself failing, live, in the room."
+    },
+    {
+      "id": "branch-2-1",
+      "gift_id": "6adb7a8c45c725959eae4dd7",
+      "number": 1,
+      "label": "Ask in the room",
+      "title": "Say it out loud",
+      "text": "You stopped the meeting and asked the question everyone was avoiding. It got quiet. Then someone answered honestly, and the plan changed."
+    },
+    {
+      "id": "branch-2-2",
+      "gift_id": "6adb7a8c45c725959eae4dd7",
+      "number": 2,
+      "label": "Ask in writing",
+      "title": "Put it in the doc",
+      "text": "You left the question in the shared doc, where it sat next to the plan and couldn't be talked around. By morning three people had replied with the same concern."
+    },
+    {
+      "id": "branch-3-1",
+      "gift_id": "6adb7a8c45c725959eae4dd8",
+      "number": 1,
+      "label": "Bring their words",
+      "title": "Carry their voice in",
+      "text": "You brought the actual quotes — what the user said, not your summary of it. The room stopped designing for an idea of a person and started designing for a person."
+    },
+    {
+      "id": "branch-3-2",
+      "gift_id": "6adb7a8c45c725959eae4dd8",
+      "number": 2,
+      "label": "Bring their case",
+      "title": "Build the business case",
+      "text": "You translated a person's frustration into hours lost and money wasted. The spreadsheet was never the point, but it's what got the decision made."
+    },
+    {
+      "id": "branch-4-1",
+      "gift_id": "6adb7a8c45c725959eae4dd9",
+      "number": 1,
+      "label": "Teach one person",
+      "title": "Make one expert",
+      "text": "You sat with one teammate until they could do it without you — then you got out of the way. One person now does it faster than you ever did."
+    },
+    {
+      "id": "branch-4-2",
+      "gift_id": "6adb7a8c45c725959eae4dd9",
+      "number": 2,
+      "label": "Teach the room",
+      "title": "Write the guide",
+      "text": "You wrote the steps down so nobody needs you standing behind them. The guide outlived the meeting, the team, and the launch."
+    },
+    {
+      "id": "branch-5-1",
+      "gift_id": "6adb7a8c45c725959eae4dda",
+      "number": 1,
+      "label": "Stay through the launch",
+      "title": "Stay for the hard part",
+      "text": "You stayed when it broke at 2am and the room got quiet. Support isn't the credit-taking part; it's the part where you're still there."
+    },
+    {
+      "id": "branch-5-2",
+      "gift_id": "6adb7a8c45c725959eae4dda",
+      "number": 2,
+      "label": "Follow up after",
+      "title": "Come back a week later",
+      "text": "You came back a week later to ask whether it was actually better. Nobody asked you to. That's the difference between shipping and helping."
+    }
+  ],
+  "Action": [
+    {
+      "id": "action-1-1",
+      "gift_id": "6adb7a8c45c725959eae4dd6",
+      "number": 1,
+      "text": "Complete a course on root cause analysis (5 Whys, fishbone diagrams) on LinkedIn Learning or Coursera.",
+      "completed": false,
+      "explain": "Root cause analysis means finding the real reason something broke, not just the first thing you notice."
+    },
+    {
+      "id": "action-1-2",
+      "gift_id": "6adb7a8c45c725959eae4dd6",
+      "number": 2,
+      "text": "Study for and earn the ISTQB Foundation Level software testing certification.",
+      "completed": false,
+      "explain": "This is a well-known certification for software testers. It proves I know how to find bugs the right way."
+    },
+    {
+      "id": "action-1-3",
+      "gift_id": "6adb7a8c45c725959eae4dd6",
+      "number": 3,
+      "text": "Keep a Blind Spot journal weekly for 30 days, then review it for patterns.",
+      "completed": false,
+      "explain": "Every week I write down things I might be missing. After a month, I look back for patterns."
+    },
+    {
+      "id": "action-1-4",
+      "gift_id": "6adb7a8c45c725959eae4dd6",
+      "number": 4,
+      "text": "Interview or shadow a QA analyst or community researcher.",
+      "completed": false,
+      "explain": "Shadowing means following someone at work for a day to see what the job is really like."
+    },
+    {
+      "id": "action-1-5",
+      "gift_id": "6adb7a8c45c725959eae4dd6",
+      "number": 5,
+      "text": "Lead a team retrospective after each project milestone.",
+      "completed": false,
+      "explain": "A retro is a team talk after a project: what went well, what didn't, and what to fix next time."
+    },
+    {
+      "id": "action-2-1",
+      "gift_id": "6adb7a8c45c725959eae4dd7",
+      "number": 1,
+      "text": "Complete Lean Six Sigma Yellow Belt training.",
+      "completed": false,
+      "explain": "A beginner training on making work run smoother, with fewer mistakes and less waste."
+    },
+    {
+      "id": "action-2-2",
+      "gift_id": "6adb7a8c45c725959eae4dd7",
+      "number": 2,
+      "text": "Read Crucial Conversations and practice one technique in a team meeting.",
+      "completed": false,
+      "explain": "A book about staying calm and clear in hard talks, when people disagree and the stakes are high."
+    },
+    {
+      "id": "action-2-3",
+      "gift_id": "6adb7a8c45c725959eae4dd7",
+      "number": 3,
+      "text": "Map one team process and present one improvement within 30 days.",
+      "completed": false,
+      "explain": "I draw out how my team does a task, step by step, then suggest one way to make it better."
+    },
+    {
+      "id": "action-2-4",
+      "gift_id": "6adb7a8c45c725959eae4dd7",
+      "number": 4,
+      "text": "Attend an intro webinar from the Institute of Internal Auditors (IIA).",
+      "completed": false,
+      "explain": "The IIA is the main group for auditors. Their intro webinar shows how audits keep people and systems accountable."
+    },
+    {
+      "id": "action-2-5",
+      "gift_id": "6adb7a8c45c725959eae4dd7",
+      "number": 5,
+      "text": "Ask a mentor once a month for feedback on how a challenge I raised landed.",
+      "completed": false,
+      "explain": "Once a month, I ask a mentor how my pushback came across, so I can challenge in a way people can hear."
+    },
+    {
+      "id": "action-3-1",
+      "gift_id": "6adb7a8c45c725959eae4dd8",
+      "number": 1,
+      "text": "Join Toastmasters to strengthen public speaking.",
+      "completed": false,
+      "explain": "A club where people practice public speaking and get friendly feedback."
+    },
+    {
+      "id": "action-3-2",
+      "gift_id": "6adb7a8c45c725959eae4dd8",
+      "number": 2,
+      "text": "Study for the aPHR (Associate Professional in Human Resources) certification from HRCI.",
+      "completed": false,
+      "explain": "A beginner HR certification. It shows I know how to support employees fairly."
+    },
+    {
+      "id": "action-3-3",
+      "gift_id": "6adb7a8c45c725959eae4dd8",
+      "number": 3,
+      "text": "Complete a free customer service or customer success course on HubSpot Academy.",
+      "completed": false,
+      "explain": "A free online course about helping customers succeed and feel heard."
+    },
+    {
+      "id": "action-3-4",
+      "gift_id": "6adb7a8c45c725959eae4dd8",
+      "number": 4,
+      "text": "Create an anonymous feedback form so my team or cohort can share concerns safely.",
+      "completed": false,
+      "explain": "A form where people can share concerns without giving their name, so it feels safe to speak up."
+    },
+    {
+      "id": "action-3-5",
+      "gift_id": "6adb7a8c45c725959eae4dd8",
+      "number": 5,
+      "text": "Host a monthly listening session and share the themes with mentors or leadership.",
+      "completed": false,
+      "explain": "A monthly meeting where I mostly listen, then share the main themes with leaders."
+    },
+    {
+      "id": "action-4-1",
+      "gift_id": "6adb7a8c45c725959eae4dd9",
+      "number": 1,
+      "text": "Complete an intro coaching course on LinkedIn Learning or Coursera.",
+      "completed": false,
+      "explain": "A short course on helping people find their own answers, instead of handing them mine."
+    },
+    {
+      "id": "action-4-2",
+      "gift_id": "6adb7a8c45c725959eae4dd9",
+      "number": 2,
+      "text": "Read Dare to Lead by Brené Brown and apply one idea with my team.",
+      "completed": false,
+      "explain": "A book by Brené Brown about brave, honest leadership. I'll try one idea from it with my team."
+    },
+    {
+      "id": "action-4-3",
+      "gift_id": "6adb7a8c45c725959eae4dd9",
+      "number": 3,
+      "text": "Facilitate one workshop or skill-share for my cohort within 60 days.",
+      "completed": false,
+      "explain": "I'll teach my cohort something I'm good at, so others can grow too."
+    },
+    {
+      "id": "action-4-4",
+      "gift_id": "6adb7a8c45c725959eae4dd9",
+      "number": 4,
+      "text": "Volunteer as a mentor with a local youth or workforce program for 3 months.",
+      "completed": false,
+      "explain": "For 3 months, I'll mentor young people or adults who are building their careers."
+    },
+    {
+      "id": "action-4-5",
+      "gift_id": "6adb7a8c45c725959eae4dd9",
+      "number": 5,
+      "text": "Once a week for 30 days, invite a quieter teammate to share their idea first before I speak.",
+      "completed": false,
+      "explain": "Once a week, I'll ask a quieter teammate to share their idea first, before I speak."
+    },
+    {
+      "id": "action-5-1",
+      "gift_id": "6adb7a8c45c725959eae4dda",
+      "number": 1,
+      "text": "Get certified in Mental Health First Aid.",
+      "completed": false,
+      "explain": "A training that teaches how to notice when someone is struggling and help them get support."
+    },
+    {
+      "id": "action-5-2",
+      "gift_id": "6adb7a8c45c725959eae4dda",
+      "number": 2,
+      "text": "Complete an intro change management course on LinkedIn Learning or Coursera and learn the ADKAR model.",
+      "completed": false,
+      "explain": "ADKAR is a simple way to help people through change: Awareness, Desire, Knowledge, Ability, Reinforcement."
+    },
+    {
+      "id": "action-5-3",
+      "gift_id": "6adb7a8c45c725959eae4dda",
+      "number": 3,
+      "text": "Read Radical Candor by Kim Scott.",
+      "completed": false,
+      "explain": "A book about caring about people while still being honest with them."
+    },
+    {
+      "id": "action-5-4",
+      "gift_id": "6adb7a8c45c725959eae4dda",
+      "number": 4,
+      "text": "Hold one-on-one check-ins with each teammate every two weeks during a project.",
+      "completed": false,
+      "explain": "Every two weeks, I'll meet with each teammate one-on-one to see how they're really doing."
+    },
+    {
+      "id": "action-5-5",
+      "gift_id": "6adb7a8c45c725959eae4dda",
+      "number": 5,
+      "text": "Follow up within 48 hours with the people affected after any hard conversation or change I lead.",
+      "completed": false,
+      "explain": "After a hard talk or a big change, I'll check in with the people affected within two days."
+    }
+  ],
+  "DevLog": [
+    {
+      "id": "devlog-1",
+      "stage": 1,
+      "learned": ""
+    },
+    {
+      "id": "devlog-2",
+      "stage": 2,
+      "learned": ""
+    },
+    {
+      "id": "devlog-3",
+      "stage": 3,
+      "learned": ""
+    },
+    {
+      "id": "devlog-4",
+      "stage": 4,
+      "learned": ""
+    }
+  ]
+}
